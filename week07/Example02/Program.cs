@@ -21,6 +21,7 @@ namespace Example02
             Line line3 = new Line(new Point(2, 3), new Point(4, 6));
             Console.WriteLine("Distance Line3:{0}", line3.Distance());
         }
+    }
 
     class Point
     {
@@ -67,3 +68,4 @@ namespace Example02
         }
     }
 }
+    
